@@ -1,0 +1,28 @@
+{
+  "name": "dreams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelkinn/dreams.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelkinn/dreams/issues"
+  },
+  "homepage": "https://github.com/pelkinn/dreams#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-less-watcher": "^0.5.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.3",
+    "smart-grid": "^2.0.1"
+  }
+}
